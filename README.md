@@ -150,6 +150,11 @@ See section 5.
 Data cleaning · EDA · Feature engineering · K-Means segmentation · Class-imbalance handling · Classification modelling and validation · Business storytelling
 
 ---
+## Architecture Diagram
+![AeroReach Architecture](diagram%20(1).png)
+
+# Optimizing ROI on Digital Marketing Campaigns – AeroReach Insights
+
 
 **Author:** Astha Kumari Jha, MBA (Data Science & Analytics), Jain University
 **Guide:** Hrushikesha Shastry
